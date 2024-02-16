@@ -1,5 +1,7 @@
 # LEGO Price Dashboard
 
+![LEGO DASHBOARD](https://github.com/ericyang91/LEGO_the_Ultimate_Dashboard/blob/main/lego_dashboard_snippet.png)
+
 ## Purpose
 This data analytics project explores the evolution of prices and the number of bricks in LEGO sets across various theme groups. The analysis begins with raw dataset processing using Python's Pandas library for efficient data cleaning and preparation. The clean dataset is then exported to Tableau Public, where a dynamic and interactive dashboard is crafted.
 
